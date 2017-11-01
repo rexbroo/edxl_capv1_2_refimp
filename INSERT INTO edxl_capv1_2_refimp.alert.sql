@@ -1,0 +1,2 @@
+INSERT INTO edxl_capv1_2_refimp.alert (identifier, sender, sent, status, `msgType`, `source`, scope, restriction, code, note, `references`, incidents, info, category_id) 
+	VALUES ('NOAA-NWS-ALERTS-CA125838fsecfc.WinterStormWarning.125838f803c0CA.EKAWSWEKA.d2e18d2b81b08f7bcd9e6fadde0ff6db', 'w-nws.webmaster@noaa.gov', '2017-01-22 22:31:08.0', 'Actual', 'Alert', 'nws', 'Public', NULL, NULL, 'Alert for CAZ107; CAZ108 (California) Issued by the National Weather Service', NULL, NULL, 'none', 1);

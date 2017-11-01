@@ -1,0 +1,2 @@
+INSERT INTO edxl_capv1_2_refimp.resource (resource, resourceDesc, mimeType, size, uri, derefUri, digest, info_info, info_alert_identifier, category_id) 
+	VALUES ('none', NULL, NULL, 0, NULL, NULL, NULL, 'none', 'NOAA-NWS-ALERTS-CA1258388FSECFC.WinterStormWarning.125838f803C0CA.EKAWSWEKA.d2e18d2b81b08f7bcd9e6fadde0ff6ddb', 4);

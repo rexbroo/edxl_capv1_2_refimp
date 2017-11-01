@@ -1,0 +1,2 @@
+INSERT INTO edxl_capv1_2_refimp.area (area, `areaDesc`, polygon, circle, geocode, altitude, ceiling, info_info, category_id) 
+	VALUES ('Trinity County, California', 'CAZ107; CAZ108', '39.99, -122.90 39.99, -123.54 40.80, -123.56 40.92, -123.60 40.92, -123.49 41.05, -123.41 41.09, -123.47 41.17, -123.40 41.13, -123.29 40.99, -122.94 41.08, -122.74 40.57, -123.95 41.33, -122.53 41.10, -122.46 40.70, -122.74 40.57, -122.71 40.36, -123.02 39.99, -122.90', 'none', 'FIPS6, , UGC, CAZ107, UGC, CAZ108', 'none', 'none', 'none', 1);
